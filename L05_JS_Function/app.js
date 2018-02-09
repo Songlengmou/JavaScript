@@ -27,4 +27,8 @@ function example() {
     console.log(arguments);
 }
 
-example(10, 8);  //在这里  括号内可写可不写
+example(10, 8, "hello");  //在这里  括号内可写可不写
+
+//4.箭头函数
+var addThree = (a, b) => a + b;
+console.log(addThree(2, 6));
