@@ -14,3 +14,5 @@ function hello() {
 //分别输入上述名称来看它们所属的类型
 console.log(typeof d);  // typeof只能用于判断基本数据类型
 // console.log(typeof hello);
+
+
