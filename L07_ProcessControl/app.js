@@ -53,3 +53,5 @@
 
     showLevel1(92);
 })();
+
+//switch可以实现if-else判断   if-else不可以实现switch判断
